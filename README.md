@@ -8,6 +8,7 @@ In my spare time, I explore exciting and exotic languages like Rust, Haskell, an
 
 Here are direct links to each of my portfolio projects:   
 https://gr.camdenmecklem.com   
+https://camdenmecklem.com   
 https://la.camdenmecklem.com   
 https://iamkauthar.work/   
 http://links.camdenmecklem.com/ (hosted on Heroku free tier - might take a moment to load)   
