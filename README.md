@@ -6,7 +6,7 @@ I love to learn new things and challenge myself with new concepts and technologi
 
 In my spare time, I explore exciting and exotic languages like Rust, Haskell, and Racket, which have taught me a lot of concepts that transfer to JavaScript/TypeScript, like functional programming, generics, and closures.
 
-Here are direct links to each of my portfolio projects:   
+Here are direct links to each of my projects:   
 https://gr.camdenmecklem.com   
 https://camdenmecklem.com   
 https://la.camdenmecklem.com   
