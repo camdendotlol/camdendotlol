@@ -1,6 +1,6 @@
 ### Hello! 🛸
 
-I am a JavaScript/React developer in the Cincinnati area. The pinned projects below serve as my portfolio. Most of my work is on the frontend with React or vanilla JS, with some experience in Express backends.
+I am a frontend/React developer in the Cincinnati area. The pinned projects below serve as my portfolio. Most of my work is on the frontend with React/TypeScript or vanilla JS, with some experience in Express backends.
 
 I love to learn new things and challenge myself with new concepts and technologies in each project. Some of my portfolio repos contain notes on things I learned while working on the project.
 
