@@ -14,4 +14,4 @@ https://iamkauthar.work/
 http://links.camdenmecklem.com/ (hosted on Heroku free tier - might take a moment to load)   
 https://cookie.camdenmecklem.com/   
 
-Security note: I started GPG signing commits with vigilant mode on July 12 2021. Any unverified commits from me dating after July 12, 2021, should be considered suspect.
+Security note: I started GPG signing commits with vigilant mode on July 12, 2021. Any unverified commits from me dating after July 12, 2021, should be considered suspect.
