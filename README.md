@@ -7,10 +7,10 @@ I love to learn new things and challenge myself with new concepts and technologi
 In my spare time, I explore exciting and exotic languages like Rust, Haskell, and Racket, which have taught me a lot of concepts that transfer to JavaScript/TypeScript, like functional programming, OOP, generics, and closures.
 
 Here are direct links to each of my projects:   
+https://chromapoll.xyz   
 https://gr.camdenmecklem.com   
 https://camdenmecklem.com   
 https://la.camdenmecklem.com   
 https://iamkauthar.work/   
-http://links.camdenmecklem.com/ (hosted on Heroku free tier - might take a moment to load)   
 
 Security note: I started GPG signing commits with vigilant mode on July 12, 2021. Any unverified commits from me dating after July 12, 2021, should be considered suspect.
