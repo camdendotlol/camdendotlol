@@ -4,7 +4,7 @@ I am a frontend/React developer in the Cincinnati area. The pinned projects belo
 
 I love to learn new things and challenge myself with new concepts and technologies in each project. Some of my portfolio repos contain notes on things I learned while working on the project.
 
-In my spare time, I explore exciting and exotic languages like Rust, Haskell, and Racket, which have taught me a lot of concepts that transfer to JavaScript/TypeScript, like functional programming, OOP, generics, and closures.
+In my spare time, I explore exciting and exotic languages like Rust, Haskell, and Common Lisp, which have taught me a lot of concepts that transfer to JavaScript/TypeScript, like functional programming, OOP, generics, and closures.
 
 Here are direct links to each of my projects:   
 https://chromapoll.xyz   
