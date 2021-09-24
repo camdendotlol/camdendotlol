@@ -12,5 +12,3 @@ https://gr.camdenmecklem.com
 https://camdenmecklem.com   
 https://la.camdenmecklem.com   
 https://iamkauthar.work/   
-
-Security note: I started GPG signing commits with vigilant mode on July 12, 2021. Any unverified commits from me dating after July 12, 2021, should be considered suspect.
