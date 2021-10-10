@@ -15,4 +15,4 @@ https://iamkauthar.work/
 
 I'm currently working on https://www.ostrakon.xyz/, but it's still in progress.
 
-I'm also currently working on copy-editing the documentation for https://github.com/soapdog/patchfox
+I'm also currently working on copy-editing the documentation for https://github.com/soapdog/patchfox (see https://github.com/mythmakerseven/patchfox)
