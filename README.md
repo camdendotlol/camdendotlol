@@ -7,7 +7,7 @@ I love to learn new things and challenge myself with new concepts and technologi
 In my spare time, I explore exciting and exotic languages like Rust, Haskell, and Common Lisp, which have taught me a lot of concepts that transfer to JavaScript/TypeScript, like functional programming, OOP, generics, and closures.
 
 Here are direct links to each of my projects:   
-https://www.ostrakon.xyz/   
+https://www.ostrakon.xyz/#demo (the #demo hash tells it to generate an example chart right away)    
 https://chromapoll.xyz   
 https://gr.camdenmecklem.com   
 https://camdenmecklem.com   
