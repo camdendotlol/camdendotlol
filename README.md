@@ -7,12 +7,9 @@ I love to learn new things and challenge myself with new concepts and technologi
 In my spare time, I explore exciting and exotic languages like Rust, Haskell, and Common Lisp, which have taught me a lot of concepts that transfer to JavaScript/TypeScript, like functional programming, OOP, generics, and closures.
 
 Here are direct links to each of my projects:   
+https://www.ostrakon.xyz/   
 https://chromapoll.xyz   
 https://gr.camdenmecklem.com   
 https://camdenmecklem.com   
 https://la.camdenmecklem.com   
 https://iamkauthar.work/   
-
-I'm currently working on https://www.ostrakon.xyz/, but it's still in progress.
-
-I'm also currently working on copy-editing the documentation for https://github.com/soapdog/patchfox
